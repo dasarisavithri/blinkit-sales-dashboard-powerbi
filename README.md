@@ -53,7 +53,3 @@ The objective of this project is to analyze sales data and identify trends that 
 * DAX Calculations
 * Data Visualization
 * Business Intelligence Reporting
-
-## Dashboard Preview
-
-(Add screenshots from the Screenshots folder here.)
